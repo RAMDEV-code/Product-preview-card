@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RAMDEV-code/Product-preview-card)
-- Live Site URL: [Add live site URL here](https://ramdev-code.github.io/Product-preview-card/)
+- Solution URL: [solution URL](https://github.com/RAMDEV-code/Product-preview-card)
+- Live Site URL: [live site URL](https://ramdev-code.github.io/Product-preview-card/)
 
 ## My process
 
@@ -63,17 +63,15 @@ Use this section to recap over some of your major learnings while working throug
 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
 .proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+  picture element
+  srcset
+  reset
+  color
+  text-tranform
+  uppercase
 }
 ```
 
