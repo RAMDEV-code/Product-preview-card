@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/RAMDEV-code/Product-preview-card)
+- Live Site URL: [Add live site URL here](https://ramdev-code.github.io/Product-preview-card/)
 
 ## My process
 
@@ -52,10 +52,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- CSS Flex
+- josh comeau rest
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -98,9 +96,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [RAMDEV-code](https://github.com/RAMDEV-code)
+- Frontend Mentor - [@RAMDEV-code](https://www.frontendmentor.io/profile/RAMDEV-code)
+- Twitter - [@Greatest_ram](https://x.com/home)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
