@@ -162,7 +162,7 @@ body {
 }
 .btn[data-icon="shopping-cart"]::before {
     content: "";
-    background-image: url('icon-cart.svg');
+    /* background-image: url('icon-cart.svg'); */
     width: 15px;
     height: 16px;
 }
